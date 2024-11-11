@@ -2,7 +2,7 @@ class Opsh < Formula
   desc "Operations Shell"
   homepage "https://github.com/alexanderguy/opsh"
   url "https://github.com/alexanderguy/opsh.git",
-      tag: "0.1.0"
+      tag: "0.3.0"
 
   depends_on "bash"
 
